@@ -1,0 +1,1 @@
+D:\DataWareHouse\laplich\bin\runapp.cmd
